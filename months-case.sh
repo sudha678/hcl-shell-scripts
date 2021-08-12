@@ -9,35 +9,33 @@ case $n in
 	        echo "feb" :;
          2)
 
-		echo "march" :;
+		 echo "march" :;
 
 	 3)
-		echo "april" :;
+		  echo "april" :;
 
 	 4)
-		echo "may" :;
-
+		  echo "may" :;
          5)
 
-	        echo "june" :;
-         6)  
+	          echo "june" :;
 
-		echo "july" :;
+         6)  
+	          echo "july" :;
 
          7)
-		echo "august" :;
+		 echo "august" :;
 
 	 8)
-		echo "september" :;
+		 echo "september" :;
 
          9)
-	 
- 	         echo "october" :;
+	         echo "october" :;
 
          10)
-	       echo " november" :;
+	         echo  "november" :;
 
-	 11)
-               echo " december" :;	
+         11)
+                 echo "december" :;	
 
 esac

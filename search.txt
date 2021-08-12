@@ -1,0 +1,22 @@
+This is my first file for search pattern.
+this is second line.
+is this third Line?
+
+first
+second
+third
+forth
+fifth
+sixth
+seventh
+eighth
+ninth
+tenth
+ninty forth
+ninty fifth
+tenth position
+
+abc
+abcaabbccaaabbbccc
+aabbcc
+aaabbbccc

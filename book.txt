@@ -1,0 +1,7 @@
+This is book.txt file
+This is shell scripting file
+I like shell scripting
+Added new line
+Added new line
+Added new line
+ram 1234512345 Bangalore Karnataka

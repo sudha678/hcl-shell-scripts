@@ -1,0 +1,30 @@
+Filesystem                   1K-blocks      Used Available Use% Mounted on
+udev                            472772         0    472772   0% /dev
+tmpfs                           100880      5256     95624   6% /run
+/dev/mapper/vagrant--vg-root  64800356   2563004  58915908   5% /
+tmpfs                           504392         0    504392   0% /dev/shm
+tmpfs                             5120         0      5120   0% /run/lock
+tmpfs                           504392         0    504392   0% /sys/fs/cgroup
+vagrant                      488314876 294918536 193396340  61% /vagrant
+tmpfs                           100876         0    100876   0% /run/user/1000
+___________________________________
+Filesystem                   1K-blocks      Used Available Use% Mounted on
+udev                            472772         0    472772   0% /dev
+tmpfs                           100880      5256     95624   6% /run
+/dev/mapper/vagrant--vg-root  64800356   2563012  58915900   5% /
+tmpfs                           504392         0    504392   0% /dev/shm
+tmpfs                             5120         0      5120   0% /run/lock
+tmpfs                           504392         0    504392   0% /sys/fs/cgroup
+vagrant                      488314876 294918536 193396340  61% /vagrant
+tmpfs                           100876         0    100876   0% /run/user/1000
+___________________________________
+Filesystem                   1K-blocks      Used Available Use% Mounted on
+udev                            472772         0    472772   0% /dev
+tmpfs                           100880      5256     95624   6% /run
+/dev/mapper/vagrant--vg-root  64800356   2563028  58915884   5% /
+tmpfs                           504392         0    504392   0% /dev/shm
+tmpfs                             5120         0      5120   0% /run/lock
+tmpfs                           504392         0    504392   0% /sys/fs/cgroup
+vagrant                      488314876 294918536 193396340  61% /vagrant
+tmpfs                           100876         0    100876   0% /run/user/1000
+___________________________________

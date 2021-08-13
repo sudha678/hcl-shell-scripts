@@ -3,11 +3,11 @@ BEGIN {
 print "------------------------------------------"
 print "             employee details"
 print "------------------------------------------"
-print "Name \t Designation \t Department \t Salary"
+print "Name   \t   Designation   \t   Department   \t   Salary"
 print "-------------------------------------------"
 }
 {
-print $1 "  \t  " $2 "  \t  " $3 "  \t  " $4
+print $1 "    \t    " $2 "    \t    " $3 "    \t    " $4
 }
 END {
 print "-----------------------------------------"

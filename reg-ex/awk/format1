@@ -1,0 +1,2 @@
+BEGIN {printf ("%-20s%-20s%-20s%-20s\n", "name", "Designation", "Department", "Salary")}
+               {printf ("%-20s%-20s%-20s%-20s\n", $1,$2,$3,$4) }
